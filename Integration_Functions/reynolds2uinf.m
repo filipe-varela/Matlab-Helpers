@@ -4,6 +4,4 @@ function [uinf] = reynolds2uinf(reynolds, L, v)
 
 uinf = reynolds * (v / L);
 
-
 end
-
